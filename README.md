@@ -12,3 +12,5 @@ https://izzie2021.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️ by Ismael Espana
+
+### &copy2019 Run Buddy, Inc
